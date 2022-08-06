@@ -1,0 +1,70 @@
+/*incorporo reglas fundamentales para hacer web*/
+*{
+    box-sizing: border-box;
+}
+.caja1 {
+    background-color: green;
+}
+.altura1 {
+    height: 400px;
+}
+.caja2 {
+    background-color: purple;
+}
+.altura2 {
+    height: 50px;
+}
+.caja3 {
+    background-color: pink;
+}
+.altura3 {
+    height: 50px;
+}
+.caja4 {
+    background-color: purple;
+}
+.altura4 {
+    height: 50px;
+}
+.caja5 {
+    background-color: pink;
+}
+.altura5 {
+    height: 50px;
+}
+.caja6 {
+    background-color: orange;
+}
+.altura6 {
+    height: 400px;
+}
+.caja7 {
+    background-color: green;
+}
+.altura7 {
+    height: 400px;
+}
+.caja8 {
+    background-color: purple;
+}
+.altura8 {
+    height: 300px;
+}
+.caja9 {
+    background-color: pink;
+}
+.altura9 {
+    height: 300px;
+}
+.caja10 {
+    background-color: purple;
+}
+.altura10 {
+    height: 300px;
+}
+.caja11 {
+    background-color: green;
+}
+.altura11 {
+    height: 200px;
+}
